@@ -21,9 +21,9 @@
  
  
  ### Importing Required Libraries
-import cv2
-import matplotlib.pyplot as plt
-import numpy as np
+![GitHub Logo](/img/1.png)
+
+### Reading Image
 
  
  ### Converting to Greyscale
